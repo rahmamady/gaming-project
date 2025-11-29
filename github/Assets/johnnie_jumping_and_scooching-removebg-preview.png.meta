@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 5be4e46eebe9f834197e1bdece015b30
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 294
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa9d21be4eae314c8e4297bd1f249a6
+      internalID: 1968918341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 294
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b8f9049caff04db102d04cf712fe3
+      internalID: 926859050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 294
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a77773bccf8a54b953e6c1dd8044e3
+      internalID: 1369169325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 294
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e0d2c35b12504b91a3f83f9e9617e
+      internalID: 78550172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 294
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ab7e4d7348d81498d1f99daea2a309
+      internalID: 383312120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 195
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6171f4baa6c5884e82a77df810af87c
+      internalID: -1095706506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 195
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9418c7305a51a459752840335406c4
+      internalID: -7892950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 195
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2968e65d86fbb384ab80a318025e9e5e
+      internalID: 808585984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 194
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2868e11791107004cb352609fd749e76
+      internalID: -469260928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 195
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a7a27c8bb21b34493ed280de03c336
+      internalID: 1234390387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 97
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6187a9281d5aa1043bddebf1b6815012
+      internalID: 1857756571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 97
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eecd78ed0a903c41994503e1f821e86
+      internalID: -2104210525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 97
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22315f4057dda74a852ea1a7f6c6f7f
+      internalID: 332711182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 97
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f70d7d50d8ccf47a833f83c8fbe4dc
+      internalID: -895780014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 97
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b078e48e00ec9e947b0c7e66a32f7d68
+      internalID: 2146936158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e4e5b77a295e2439b6b7c14658db9d
+      internalID: -12315596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c602507e2ac0c45bc63b1451a5aca4
+      internalID: 994903602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdce1487d5187e04faeb572ca123ddc7
+      internalID: 588452715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a13baf29eaf7c46b7c15a7b68a066e
+      internalID: -2129235393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnnie_jumping_and_scooching-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d29b9670e83a6b49aa6ed015bb83fa7
+      internalID: -673631267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      johnnie_jumping_and_scooching-removebg-preview_17: 588452715
+      johnnie_jumping_and_scooching-removebg-preview_19: -673631267
+      johnnie_jumping_and_scooching-removebg-preview_14: 2146936158
+      johnnie_jumping_and_scooching-removebg-preview_18: -2129235393
+      johnnie_jumping_and_scooching-removebg-preview_6: -7892950
+      johnnie_jumping_and_scooching-removebg-preview_16: 994903602
+      johnnie_jumping_and_scooching-removebg-preview_1: 926859050
+      johnnie_jumping_and_scooching-removebg-preview_11: -2104210525
+      johnnie_jumping_and_scooching-removebg-preview_7: 808585984
+      johnnie_jumping_and_scooching-removebg-preview_9: 1234390387
+      johnnie_jumping_and_scooching-removebg-preview_10: 1857756571
+      johnnie_jumping_and_scooching-removebg-preview_2: 1369169325
+      johnnie_jumping_and_scooching-removebg-preview_0: 1968918341
+      johnnie_jumping_and_scooching-removebg-preview_3: 78550172
+      johnnie_jumping_and_scooching-removebg-preview_5: -1095706506
+      johnnie_jumping_and_scooching-removebg-preview_4: 383312120
+      johnnie_jumping_and_scooching-removebg-preview_13: -895780014
+      johnnie_jumping_and_scooching-removebg-preview_8: -469260928
+      johnnie_jumping_and_scooching-removebg-preview_12: 332711182
+      johnnie_jumping_and_scooching-removebg-preview_15: -12315596
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
